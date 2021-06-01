@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 2
 3
@@ -8,3 +9,14 @@
 8
 9
 
+=======
+test 123
+2_druga
+3_trzecia
+4_czwarta
+_5piata
+6lina_6
+7linia_7
+8linia_8
+9linia_9
+>>>>>>> fb0960d (10 linijek)
